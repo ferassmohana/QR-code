@@ -34,7 +34,6 @@ A screenshots for the design in 1440px - 375px screen width.
 - HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
